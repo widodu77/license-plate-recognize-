@@ -73,8 +73,11 @@ Project Structure
 A typical structure for the project is as follows:
 
 license-plate-recognize-
+
 ├── data
+
 │   ├── images         
+
 │   └── annotations    
 ├── models            
 ├── src
