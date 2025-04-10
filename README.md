@@ -74,14 +74,14 @@ A typical structure for the project is as follows:
 
 license-plate-recognize-
 ├── data
-│   ├── images         # Folder containing vehicle images
-│   └── annotations    # Folder containing XML annotation files
-├── models             # Directory for storing trained models and checkpoints
+│   ├── images         # Folder containing vehicle images <br />
+│   └── annotations    # Folder containing XML annotation files <br />
+├── models             # Directory for storing trained models and checkpoints <br />
 ├── src
-│   ├── main.py        # Main pipeline for detection and recognition
-│   ├── utils.py       # Utility functions for image processing and XML parsing
-│   └── model.py       # Script for building and training the deep learning model
-├── requirements.txt   # List of project dependencies
+│   ├── main.py        # Main pipeline for detection and recognition <br />
+│   ├── utils.py       # Utility functions for image processing and XML parsing <br />
+│   └── model.py       # Script for building and training the deep learning model <br />
+├── requirements.txt   # List of project dependencies <br />
 └── README.txt         # This file
 
 
