@@ -116,9 +116,6 @@ Contributions are welcome. To contribute:
 3. Submit a pull request describing your changes.
 4. Ensure that your code adheres to the project's guidelines and passes all tests.
 
-License
--------
-This project is open-source and is available under the MIT License.
 
 Acknowledgements
 ----------------
