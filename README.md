@@ -72,8 +72,8 @@ Project Structure
 -----------------
 A typical structure for the project is as follows:
 
-license-plate-recognize-
-├── data
+license-plate-recognize-    <br />
+├── data        <br />
 │   ├── images         # Folder containing vehicle images <br />
 │   └── annotations    # Folder containing XML annotation files <br />
 ├── models             # Directory for storing trained models and checkpoints <br />
