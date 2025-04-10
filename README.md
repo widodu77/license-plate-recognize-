@@ -82,7 +82,8 @@ license-plate-recognize-
 │   ├── utils.py       # Utility functions for image processing and XML parsing
 │   └── model.py       # Script for building and training the deep learning model
 ├── requirements.txt   # List of project dependencies
-└── README.txt         # This file 
+└── README.txt         # This file
+
 
 Details
 -------
