@@ -128,4 +128,4 @@ Special thanks to the developers and maintainers of the following:
 - Scikit-image (https://scikit-image.org/)
 - Scikit-learn (https://scikit-learn.org/)
 
-Enjoy exploring, using, and contributing to the License Plate Recognize project!
+
